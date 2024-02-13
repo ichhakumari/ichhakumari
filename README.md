@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Ichha Kumari ❤️
 <h1 >
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=31&pause=1000&color=F71F71&repeat=false&width=650&lines=Hi+Greeting's+%E2%9D%A4%EF%B8%8F+from+Vivek+Kumar" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=31&pause=1000&color=F71F71&repeat=false&width=650&lines=Hi+Greeting's+%E2%9D%A4%EF%B8%8F+from+Ichha+Kumari" alt="Typing SVG" /></a>
 </h1>
 
 > "`Simplicity` is the `soul` of `efficiency` << Talk is `cheap`, `show me` the `code` </>" 
@@ -29,7 +29,7 @@
   Github Performance
 </h1>
  
- ![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivekkrsk&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&hide_border=true&hide_title=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekkrsk&layout=compact&theme=radical&hide_border=true)
+ ![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=ichhakumari&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&hide_border=true&hide_title=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ichhakumari&layout=compact&theme=radical&hide_border=true)
  
   
 <br>
@@ -38,7 +38,7 @@
   Github Overall Analytics
  </h1>
   <p align="left">
-  <img width="99%" src="https://github-readme-streak-stats.herokuapp.com?user=vivekkrsk&theme=radical&hide_border=true" />
+  <img width="99%" src="https://github-readme-streak-stats.herokuapp.com?user=ichhakumari&theme=radical&hide_border=true" />
 </p>
 
 <br>
@@ -110,11 +110,11 @@ Believe in `Almighty` Exclusively and Unconditionally.
 <hr>
 
 <br>
-<div align="center"> <img src="https://github.com/vivekkrsk/vivekkrsk/blob/output/github-contribution-grid-snake.svg" /></div>  
+<div align="center"> <img src="https://github.com/ichhakumari/ichhakumari/blob/output/github-contribution-grid-snake.svg" /></div>  
 
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=31&pause=1000&color=F71F71&width=435&lines=Thank+You+for+Your+Time;+from+VIVEK+KUMAR" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=31&pause=1000&color=F71F71&width=435&lines=Thank+You+for+Your+Time;+from+ICHHA+KUMARI" alt="Typing SVG" /></a>
 </h1>
   
 
