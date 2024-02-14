@@ -110,7 +110,7 @@ Believe in `Almighty` Exclusively and Unconditionally.
 <hr>
 
 <br>
-<div align="center"> <img src="https://github.com/ichhakumari/ichhakumari/blob/output/github-contribution-grid-snake.svg" /></div>  
+
 
 
 <h1 align="center">
