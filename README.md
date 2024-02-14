@@ -1,4 +1,4 @@
-### Hi there 👋
+
 ### Ichha Kumari ❤️
 <h1 >
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=31&pause=1000&color=F71F71&repeat=false&width=650&lines=Hi+Greeting's+%E2%9D%A4%EF%B8%8F+from+Ichha+Kumari" alt="Typing SVG" /></a>
@@ -29,7 +29,7 @@
   Github Performance
 </h1>
  
- ![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=ichhakumari&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&hide_border=true&hide_title=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ichhakumari&layout=compact&theme=radical&hide_border=true)
+ ![Ichha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ichhakumari&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&hide_border=true&hide_title=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ichhakumari&layout=compact&theme=radical&hide_border=true)
  
   
 <br>
@@ -101,7 +101,7 @@ Believe in `Almighty` Exclusively and Unconditionally.
     Languages 
     </h2>
 <code><img height="62" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-
+<code> <img height="62" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo.png"></code>
 <code><img height="62" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/mysql/mysql.png"></code>
 <code><img height="62" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="62" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
