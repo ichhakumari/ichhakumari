@@ -55,6 +55,9 @@
   ABOUT ME
 </h1>  
 <img width="130" height="150" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif" />
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
   
 Started my career at the age of Eighteen(18) as a Devloper. I have Three(3) plus years of predominant hands-on experience gained by doing projects on different topics🎉.
 
