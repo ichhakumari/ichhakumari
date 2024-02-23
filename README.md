@@ -6,11 +6,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
-
 
 > "`Simplicity` is the `soul` of `efficiency` << Talk is `cheap`, `show me` the `code` </>" 
 > `(SAM)`
@@ -54,7 +49,7 @@
 <h1 align="center">
   ABOUT ME
 </h1>  
-<img width="130" height="150" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif" />
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
@@ -96,7 +91,7 @@ Believe in `Almighty` Exclusively and Unconditionally.
  <br>
   <!--- Education --->  
   
-<h1 align="left">
+<h1 align="center">
     Education 
     </h2>
 
