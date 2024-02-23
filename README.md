@@ -7,8 +7,8 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
- "`Simplicity` is the `soul` of `efficiency` << Talk is `cheap`, `show me` the `code` </>" 
- `(SAM)`
+< "`Simplicity` is the `soul` of `efficiency` << Talk is `cheap`, `show me` the `code` />" 
+ 
 
 <br>
 
