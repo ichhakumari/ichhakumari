@@ -23,10 +23,42 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ichhakumari&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ichhakumari&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=ichhakumari&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h1 align="center">
+  ABOUT ME
+</h1>  
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+  
+Started my career at the age of Eighteen(18) as a Devloper. I have Three(3) plus years of predominant hands-on experience gained by doing projects on different topics🎉.
+
+✔ Currently working as a Artificial intelligence, Machine learning, and Data Science Engineer 🚀
+
+✔ More than dozens of Projects accomplished as a Devolper throughout my journey ♾
+
+✔ 𝟏𝟎𝟎% Success Score 🎉
+
+✔ 𝐓𝐎𝐏-𝐑𝐀𝐓𝐄𝐃 Devloper On different platform ⛷️
+
+✔ Maintain consistency, accuracy, and discipline through out the work 🎩
+
+✔ Respond quickly to message, and get the work done promptly 🎮
+---
+ <br>
+  <!--- Education --->  
+ 
+<h1 align="center">
+    Education 
+    </h2>
+
+  `Graduation` - `Bachelor` in `Artificial Intelligence And Data Science` - Vivekananda Institute of Professional Studies-TC  GGSIPU University, New Delhi, India
+  
+  Diploma` in `Computer Engineering` - Kasturba Institute of Technology, New Delhi
+  
+  `Secondary School` Certificate `(SSC)` or `Matriculation` - Rani Jhanshi SKV , New DElhi
+
 
 
 
@@ -130,18 +162,7 @@ Smarting `Ignorance/absence` those who lose diamond.
 Believe in `Almighty` Exclusively and Unconditionally.
   
   
- <br>
-  <!--- Education --->  
-<!--  
-<h1 align="center">
-    Education 
-    </h2>
 
-  `Graduation` - `Bachelor` in `Artificial Intelligence And Data Science` - Vivekananda Institute of Professional Studies-TC  GGSIPU University, New Delhi, India
-  
-  Diploma` in `Computer Engineering` - Kasturba Institute of Technology, New Delhi
-  
-  `Secondary School` Certificate `(SSC)` or `Matriculation` - Rani Jhanshi SKV , New DElhi
 
 
 <br>
