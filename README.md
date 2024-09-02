@@ -59,6 +59,17 @@ Started my career at the age of Eighteen(18) as a Devloper. I have Three(3) plus
   
   `Secondary School` Certificate `(SSC)` or `Matriculation` - Rani Jhanshi SKV , New DElhi
 
+  <hr>
+
+<br>
+<div align="center"> <img src="https://github.com/ichhakumari/ichhakumari/blob/output/github-contribution-grid-snake.svg" /></div>  
+
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=31&pause=1000&color=F71F71&width=435&lines=Thank+You+for+Your+Time;+from+Ichha+Kumari" alt="Typing SVG" /></a>
+</h1>
+  
+
 
 
 
