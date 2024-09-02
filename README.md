@@ -13,7 +13,7 @@
 <br>
 
 
-## 🌐 Socials:
+## 🌐 Socials align: center:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ichha-kumari) 
 
 # 💻 Tech Stack:
@@ -62,7 +62,7 @@ Started my career at the age of Eighteen(18) as a Devloper. I have Three(3) plus
   <hr>
 
 <br>
-<div align="center"> <img src="https://github.com/ichhakumari/ichhakumari/blob/output/github-contribution-grid-snake.svg" /></div>  
+ 
 
 
 <h1 align="center">
