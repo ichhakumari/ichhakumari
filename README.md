@@ -1,4 +1,6 @@
 ### Ichha Kumari ❤️
+
+<div align="center">
 <h1 >
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=31&pause=1000&color=F71F71&repeat=false&width=650&lines=Hi+Greeting's+%E2%9D%A4%EF%B8%8F+from+Ichha+Kumari" alt="Typing SVG" /></a>
 </h1>
@@ -12,10 +14,10 @@
 
 <br>
 
-<div align="center">
+
 <h1> 🌐 Socials :</h1>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ichha-kumari) 
-</div>
+
 <hr>
 
 # 💻 Tech Stack:
@@ -76,6 +78,8 @@ Started my career at the age of Eighteen(18) as a Devloper. I have Three(3) plus
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=31&pause=1000&color=F71F71&width=435&lines=Thank+You+for+Your+Time;+from+Ichha+Kumari" alt="Typing SVG" /></a>
 </h1>
+
+</div>
   
 
 
