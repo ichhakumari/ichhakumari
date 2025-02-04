@@ -1,17 +1,18 @@
 ### Ichha Kumari ❤️
 
 <div align="center">
-  <h1>
+  <h1 style="font-size: 2em;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=31&pause=1000&color=F71F71&repeat=false&width=650&lines=Hi+there!+%F0%9F%91%8B+Ichha+Kumari+here!" alt="Typing SVG" />
   </h1>
 
-  <img src="https://raw.githubusercontent.com/gist/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471/raw/760aff1fe331f8a445d4573aa88fd2ec16e72b83/My-work.gif" width="411"/>
+  <img src="https://raw.githubusercontent.com/gist/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471/raw/760aff1fe331f8a445d4573aa88fd2ec16e72b83/My-work.gif" width="120"/>
 </div>
 
 ---
 
 ## 🌍 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ichha-kumari)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://yourportfolio.com)
 
 ---
 
@@ -20,7 +21,7 @@
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-
+![Java Web Development](https://img.shields.io/badge/Java%20Web%20Dev-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -42,8 +43,9 @@
 
 ## 📈 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ichhakumari&show_icons=true&theme=radical" width="400" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichhakumari&layout=compact&theme=radical" width="400" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ichhakumari&show_icons=true&theme=radical" width="500" height="250"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ichhakumari&theme=radical" width="500" height="250"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichhakumari&layout=compact&theme=radical" width="500"/>
 </div>
 
 ---
