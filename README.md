@@ -1,5 +1,3 @@
-### Ichha Kumari ❤️
-
 <div align="center">
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=31&pause=1000&color=F71F71&repeat=false&width=650&lines=Hi+there!+%F0%9F%91%8B+Ichha+Kumari+here!" alt="Typing SVG" />
@@ -12,7 +10,6 @@
 
 ## 🌍 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ichha-kumari)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://yourportfolio.com)
 
 ---
 
@@ -44,7 +41,7 @@
 ## 📈 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ichhakumari&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ichhakumari&theme=radical" width="400"/>
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichhakumari&layout=compact&theme=radical" width="400"/>
 </div>
 
