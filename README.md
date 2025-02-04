@@ -20,12 +20,24 @@
 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Java Web Development](https://img.shields.io/badge/Java%20Web%20Dev-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Data Science](https://img.shields.io/badge/Data%20Science-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## ✨ Soft Skills:
+- 💡 Problem-Solving & Critical Thinking
+- 🤝 Teamwork & Collaboration
+- 🔥 Leadership & Time Management
+- 🎯 Attention to Detail & Creativity
+- 📢 Effective Communication
 
 ---
 
@@ -60,4 +72,6 @@
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=31&pause=1000&color=F71F71&width=435&lines=Thank+You+for+Visiting!;+Keep+Coding!+%E2%9C%A8" alt="Typing SVG" />
   </h1>
+
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
 </div>
