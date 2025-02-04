@@ -1,9 +1,11 @@
+
 <div align="center">
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=31&pause=1000&color=F71F71&repeat=false&width=650&lines=Hi+there!+%F0%9F%91%8B+Ichha+Kumari+here!" alt="Typing SVG" />
   </h1>
 
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgist.github.com%2F106aa0f37f016eda7ec65de5acb90471&psig=AOvVaw2umLRDswPP0O_BiDIwDF0P&ust=1738753314658000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKDCqoTvqYsDFQAAAAAdAAAAABAk)" width="120"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/>
+  <img src="https://gist.github.com/106aa0f37f016eda7ec65de5acb90471/raw/animated.gif" width="120"/>
 </div>
 
 ---
