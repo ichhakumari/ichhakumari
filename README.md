@@ -13,7 +13,12 @@
 ## 🌍 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ichha-kumari)  
 
+---
 
+## My Project / Work
+ https://filecheckertool.netlify.app/
+ https://web-production-4e327.up.railway.app/
+ 
 ---
 
 ## 🚀 Tech Stack:
