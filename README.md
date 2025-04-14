@@ -16,9 +16,9 @@
 ---
 
 ## My Project / Work
- [https://github.com/ichhakumari/ichhakumari/blob/main/logo/file_validator.png] https://filecheckertool.netlify.app/
+ https://filecheckertool.netlify.app/
  <br>
- [https://github.com/ichhakumari/ichhakumari/blob/main/logo/conv%20ana.png]https://web-production-4e327.up.railway.app/
+ https://web-production-4e327.up.railway.app/
  
 ---
 
