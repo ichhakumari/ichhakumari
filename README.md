@@ -59,7 +59,7 @@
 
 ## 👩‍💻 About Me
 
-- 🔭 Currently working as an **AI, Machine Learning, and Data Science Engineer** 🚀
+- 🔭 Currently working as a **Software Developer, Data analyst and AI** 🚀
 - 💡 More than a **dozen successful projects** completed! 🎉
 - 🏆 **Top-rated developer** on multiple platforms ⛷️
 - 💬 Ask me about **Python, AI, Data Science, and Web Development**
