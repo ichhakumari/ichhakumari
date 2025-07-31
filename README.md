@@ -4,10 +4,8 @@
   <h1 style="font-size: 2em;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=31&pause=1000&color=F71F71&repeat=false&width=650&lines=Hi+there!+%F0%9F%91%8B+Ichha+Kumari+here!" alt="Typing SVG" />
   </h1>
-  <h2>
-        <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=31&pause=1000&color=F71F71&repeat=false&width=650&lines=Hi+there!+%F0%9F%91%8B+Ichha+Kumari+here!" alt="Typing SVG" />
-</h1>
+ 
+       
 
 
 
