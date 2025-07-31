@@ -5,8 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=31&pause=1000&color=F71F71&repeat=false&width=650&lines=Hi+there!+%F0%9F%91%8B+Ichha+Kumari+here!" alt="Typing SVG" />
   </h1>
 <br>
-🟢 *looking to start my career in tech — any suggestions or opportunities would be greatly appreciated!*
-  ![status](https://img.shields.io/badge/looking%20for-career%20opportunities-green?style=flat-square)
+🟢 looking to start my career in tech — any suggestions or opportunities would be greatly appreciated!
 
 <br>
 
