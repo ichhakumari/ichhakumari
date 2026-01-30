@@ -45,17 +45,9 @@ E-commerce website with clean UI and product-focused design
 Dental website with clean UI 
 🔗 [https://gna-changes-hp2.vercel.app/](https://gna-changes-hp2.vercel.app/))
 
-🔹 **GNA Dental**
-Dental website with clean UI 
-🔗 [https://gna-changes-hp2.vercel.app/](https://gna-changes-hp2.vercel.app/))
-
 🔹 **Sharoma Candles**
 E-commerce website with clean UI and product-focused design
 🔗 [https://sh-candles.vercel.app/](https://sh-candles.vercel.app/)
-
-🔹 **GNA Dental**
-Dental website with clean UI 
-🔗 [https://gna-changes-hp2.vercel.app/](https://gna-changes-hp2.vercel.app/))
 
 🔹 **EduTech**
 Educational website with clean UI 
