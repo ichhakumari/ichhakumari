@@ -25,10 +25,6 @@
 
 ## 💼 Featured Projects
 
-🔹 **Sharoma Candles**
-E-commerce website with clean UI and product-focused design
-🔗 [https://sh-candles.vercel.app/](https://sh-candles.vercel.app/)
-
 🔹 **AiFilmz**
 AI-powered ad film & video generation platform for brands
 🔗 [https://aifilmz.com/](https://aifilmz.com/)
@@ -37,6 +33,34 @@ AI-powered ad film & video generation platform for brands
 Utility tool to validate and verify uploaded files
 🔗 [https://filecheckertool.netlify.app/](https://filecheckertool.netlify.app/)
 
+🔹 **Prime Pick**
+E-commerce website with clean UI and product-focused design
+🔗 [https://primepick.co.in/](https://primepick.co.in/)
+
+🔹 **Peravali Foods**
+E-commerce website with clean UI and product-focused design
+🔗 [https://sh-candles.vercel.app](https://www.peravalifoods.com/)
+
+🔹 **GNA Dental**
+Dental website with clean UI 
+🔗 [https://gna-changes-hp2.vercel.app/](https://gna-changes-hp2.vercel.app/))
+
+🔹 **GNA Dental**
+Dental website with clean UI 
+🔗 [https://gna-changes-hp2.vercel.app/](https://gna-changes-hp2.vercel.app/))
+
+🔹 **Sharoma Candles**
+E-commerce website with clean UI and product-focused design
+🔗 [https://sh-candles.vercel.app/](https://sh-candles.vercel.app/)
+
+🔹 **GNA Dental**
+Dental website with clean UI 
+🔗 [https://gna-changes-hp2.vercel.app/](https://gna-changes-hp2.vercel.app/))
+
+🔹 **EduTech**
+Educational website with clean UI 
+🔗 [https://educational-platform-ivory.vercel.app/](https://educational-platform-ivory.vercel.app/)
+
 🔹 **Conversation Analyzer**
 Web app for conversation analysis using backend logic
 🔗 [https://web-production-4e327.up.railway.app/](https://web-production-4e327.up.railway.app/)
@@ -44,6 +68,9 @@ Web app for conversation analysis using backend logic
 🔹 **Database Management App**
 CRUD-based database handling application
 🔗 [https://web-production-2873d.up.railway.app/](https://web-production-2873d.up.railway.app/)
+
+
+
 
 ---
 
