@@ -24,14 +24,15 @@
 ---
 
 ## 💼 Featured Projects
+<h2> Websites</h2>
+
+🔹 ** Metric magnate **
+Digital marketing website.
+🔗 [https://filecheckertool.netlify.app/](https://metric-magnate.vercel.app/)]
 
 🔹 **AiFilmz**
 AI-powered ad film & video generation platform for brands
 🔗 [https://aifilmz.com/](https://aifilmz.com/)
-
-🔹 **File Validator Tool**
-Utility tool to validate and verify uploaded files
-🔗 [https://filecheckertool.netlify.app/](https://filecheckertool.netlify.app/)
 
 🔹 **Prime Pick**
 E-commerce website with clean UI and product-focused design
@@ -53,9 +54,14 @@ E-commerce website with clean UI and product-focused design
 Educational website with clean UI 
 🔗 [https://educational-platform-ivory.vercel.app/](https://educational-platform-ivory.vercel.app/)
 
-🔹 **Conversation Analyzer**
+<h2> Tools</h2>
+🔹 **Scientfic File Converstion Tool**
 Web app for conversation analysis using backend logic
 🔗 [https://web-production-4e327.up.railway.app/](https://web-production-4e327.up.railway.app/)
+
+🔹 **File Validator Tool**
+Utility tool to validate and verify uploaded files
+🔗 [https://filecheckertool.netlify.app/](https://filecheckertool.netlify.app/)
 
 🔹 **Database Management App**
 CRUD-based database handling application
