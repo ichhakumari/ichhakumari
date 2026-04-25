@@ -26,7 +26,7 @@
 ## 💼 Featured Projects
 <h2> Websites</h2>
 
-🔹 ** Metric magnate **
+🔹 Metric magnate
 Digital marketing website.
 🔗 [https://filecheckertool.netlify.app/](https://metric-magnate.vercel.app/)]
 
@@ -55,7 +55,7 @@ Educational website with clean UI
 🔗 [https://educational-platform-ivory.vercel.app/](https://educational-platform-ivory.vercel.app/)
 
 <h2> Tools</h2>
-🔹 **Scientfic File Converstion Tool**
+🔹 Scientfic File Converstion Tool
 Web app for conversation analysis using backend logic
 🔗 [https://web-production-4e327.up.railway.app/](https://web-production-4e327.up.railway.app/)
 
