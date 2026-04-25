@@ -26,7 +26,7 @@
 ## 💼 Featured Projects
 <h2> Websites</h2>
 
-🔹 Metric magnate
+🔹 **Metric magnate**
 Digital marketing website.
 🔗 [https://filecheckertool.netlify.app/](https://metric-magnate.vercel.app/)]
 
@@ -42,6 +42,13 @@ E-commerce website with clean UI and product-focused design
 E-commerce website with clean UI and product-focused design
 🔗 [https://sh-candles.vercel.app](https://www.peravalifoods.com/)
 
+🔹 **Reliance MET City**
+ Industrial plots in Reliance MET City website.
+🔗 [https://filecheckertool.netlify.app/](https://metjhajjarplots.com/)]
+
+🔹 **Digital marketing agency**
+🔗 [https://filecheckertool.netlify.app/](https://digital-marketing-khaki.vercel.app/)]
+
 🔹 **GNA Dental**
 Dental website with clean UI 
 🔗 [https://gna-changes-hp2.vercel.app/](https://gna-changes-hp2.vercel.app/)
@@ -55,7 +62,8 @@ Educational website with clean UI
 🔗 [https://educational-platform-ivory.vercel.app/](https://educational-platform-ivory.vercel.app/)
 
 <h2> Tools</h2>
-🔹 Scientfic File Converstion Tool
+
+🔹 **Scientfic File Converstion Tool**
 Web app for conversation analysis using backend logic
 🔗 [https://web-production-4e327.up.railway.app/](https://web-production-4e327.up.railway.app/)
 
