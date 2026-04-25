@@ -47,7 +47,7 @@ E-commerce website with clean UI and product-focused design
 🔗 [https://filecheckertool.netlify.app/](https://metjhajjarplots.com/)]
 
 🔹 **Digital marketing agency**
-🔗 [https://filecheckertool.netlify.app/](https://digital-marketing-khaki.vercel.app/)]
+🔗 [https://digital-marketing-khaki.vercel.app/](https://digital-marketing-khaki.vercel.app/)]
 
 🔹 **GNA Dental**
 Dental website with clean UI 
