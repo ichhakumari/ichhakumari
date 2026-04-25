@@ -28,52 +28,52 @@
 
 🔹 **Metric magnate**
 Digital marketing website.
-🔗 [https://filecheckertool.netlify.app/](https://metric-magnate.vercel.app/)]
+🔗 [link](https://metric-magnate.vercel.app/)]
 
 🔹 **AiFilmz**
 AI-powered ad film & video generation platform for brands
-🔗 [https://aifilmz.com/](https://aifilmz.com/)
+🔗 [link](https://aifilmz.com/)
 
 🔹 **Prime Pick**
 E-commerce website with clean UI and product-focused design
-🔗 [https://primepick.co.in/](https://primepick.co.in/)
+🔗 [link](https://primepick.co.in/)
 
 🔹 **Peravali Foods**
 E-commerce website with clean UI and product-focused design
-🔗 [https://sh-candles.vercel.app](https://www.peravalifoods.com/)
+🔗 [link](https://www.peravalifoods.com/)
 
 🔹 **Reliance MET City**
  Industrial plots in Reliance MET City website.
-🔗 [https://filecheckertool.netlify.app/](https://metjhajjarplots.com/)]
+🔗 [link](https://metjhajjarplots.com/)]
 
 🔹 **Digital marketing agency**
-🔗 [https://digital-marketing-khaki.vercel.app/](https://digital-marketing-khaki.vercel.app/)]
+🔗 [link](https://digital-marketing-khaki.vercel.app/)]
 
 🔹 **GNA Dental**
 Dental website with clean UI 
-🔗 [https://gna-changes-hp2.vercel.app/](https://gna-changes-hp2.vercel.app/)
+🔗 [link](https://gna-changes-hp2.vercel.app/)
 
 🔹 **Sharoma Candles**
 E-commerce website with clean UI and product-focused design
-🔗 [https://sh-candles.vercel.app/](https://sh-candles.vercel.app/)
+🔗 [link](https://sh-candles.vercel.app/)
 
 🔹 **EduTech**
 Educational website with clean UI 
-🔗 [https://educational-platform-ivory.vercel.app/](https://educational-platform-ivory.vercel.app/)
+🔗 [link](https://educational-platform-ivory.vercel.app/)
 
 <h2> Tools</h2>
 
 🔹 **Scientfic File Converstion Tool**
 Web app for conversation analysis using backend logic
-🔗 [https://web-production-4e327.up.railway.app/](https://web-production-4e327.up.railway.app/)
+🔗 [link](https://web-production-4e327.up.railway.app/)
 
 🔹 **File Validator Tool**
 Utility tool to validate and verify uploaded files
-🔗 [https://filecheckertool.netlify.app/](https://filecheckertool.netlify.app/)
+🔗 [link](https://filecheckertool.netlify.app/)
 
 🔹 **Database Management App**
 CRUD-based database handling application
-🔗 [https://web-production-2873d.up.railway.app/](https://web-production-2873d.up.railway.app/)
+🔗 [link](https://web-production-2873d.up.railway.app/)
 
 
 
