@@ -1,5 +1,5 @@
 ### Ichha Kumari ❤️
-[myportfolio] (https://ichhaportfolio.vercel.app/)
+[myportfolio](https://ichhaportfolio.vercel.app/)
 
 <div align="center">
   <h1 style="font-size: 2em;">
